@@ -6,6 +6,7 @@ Student | Developer | Blockchain Enthusiast
 
 🌐 I love building cool, responsive websites and diving into the world of blockchain. Always up for a new challenge and ready to turn ideas into reality.
 
+* 🖥️  See [My Portfolio](https://girinath.com)
 * 🧠  I'm learning Next.js
 * ⚡  I am Batman 🦇🦇
 
